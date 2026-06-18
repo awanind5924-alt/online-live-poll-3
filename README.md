@@ -4,10 +4,9 @@ LivePoll is a mini end-to-end Stellar + Soroban dApp: a multi-wallet polling app
 
 ## Level 3 Submission Checklist (fill before submitting)
 
-- Live demo link: https://online-live-poll.vercel.app/
-- Demo video (1 minute) link: https://drive.google.com/file/d/1SRK_eF2qJyIfuN-KMlgzCpeacAeYJ23t/view?usp=sharing
-- Test output screenshot (3+ passing tests): ✅ (see below)
-- Public GitHub repo link: `https://github.com/rohit-012005/Online-Live-Poll.git`
+- Live demo link: https://online-live-poll-three.vercel.app/
+- Demo video (1 minute) link: https://drive.google.com/file/d/1mFznU8JuuxYWcu140-rXJpEqO5WCSTW_/view?usp=sharing Test output screenshot (3+ passing tests): ✅ (see below)
+- Public GitHub repo link: https://github.com/awanind5924-alt/online-live-poll-3
 - 3+ meaningful commits for Level 3: ✅
 
 
@@ -35,37 +34,20 @@ This project demonstrates:
 
 ## Screenshots
 
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <strong>🏠 Home Page</strong><br/><br/>
-      <img width="2848" height="1572" alt="screenshot_visible_2026-04-30_17-06-27" src="https://github.com/user-attachments/assets/a1c8793f-aae9-44ed-803f-04a436d5fedd" />
-    </td>
-    <td align="center" width="50%">
-      <strong>📝 Create Poll</strong><br/><br/>
-   <img width="2848" height="1572" alt="screenshot_visible_2026-04-30_17-14-55" src="https://github.com/user-attachments/assets/1e63b7cd-6ce2-4ef4-a07b-1ecae1771c22" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <strong>🗳️ Voting</strong><br/><br/>
-   <img width="2848" height="1572" alt="screenshot_visible_2026-04-30_17-17-31" src="https://github.com/user-attachments/assets/b962d4ce-2b4e-42e4-9f8e-29774f78538d" />
-    </td>
-    <td align="center" width="50%">
-      <strong>✅ CI/CD Results</strong><br/><br/>
-    <img width="1426" height="830" alt="image" src="https://github.com/user-attachments/assets/ae849647-7b8a-412e-92b8-0fb1532a5c4a" />
-    </td>
-  </tr>
-</table>
+🏠 Home Page
+      ![Screenshot 2026-06-18 210151.png](screenshot/Screenshot%202026-06-18%20210151.png)
+📝 Create Poll
+      ![Screenshot 2026-06-18 210214.png](screenshot/Screenshot%202026-06-18%20210214.png)
+🗳️ Voting
+    ![Screenshot 2026-06-18 210545.png](screenshot/Screenshot%202026-06-18%20210545.png)
+✅ CI/CD
+    ![Screenshot 2026-06-18 205459.png](screenshot/Screenshot%202026-06-18%20205459.png)
 
 ## Mobile responsive screenshots
 
 Below is a mobile view screenshot demonstrating the responsive layout on narrow screens. Replace the placeholder with a real phone-sized screenshot captured from the dev tools or a device.
 
-<div align="center">
-<img width="389" height="700" alt="2026-04-30_18-25-47" src="https://github.com/user-attachments/assets/23b9e24d-e978-4e81-9db3-dc2976486253" />
-
-</div>
+![WhatsApp Image 2026-06-18 at 9.07.51 PM.jpeg](screenshot/WhatsApp%20Image%202026-06-18%20at%209.07.51%20PM.jpeg)
 
 
 ## Deployed Contract
